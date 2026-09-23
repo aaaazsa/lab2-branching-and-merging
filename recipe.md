@@ -14,6 +14,7 @@ This recipe makes a three-layer celebration cake with a caramel filling between 
 - 1/2 cup vegetable oil
 - 2 teaspoons vanilla extract
 - 3/4 cup unsweetened cocoa powder
+- 1 teaspoon instant espresso powder (optional)
 - 1 cup dark chocolate chips
 
 ## Filling
@@ -42,7 +43,7 @@ This recipe makes a three-layer celebration cake with a caramel filling between 
 
 3. Add the eggs, milk, vegetable oil, and vanilla. Mix until the batter is smooth and well combined.
 
-4. Add the cocoa powder and dark chocolate chips. Mix until evenly combined.
+4. Add the cocoa powder, espresso powder if using, and dark chocolate chips. Mix until evenly combined.
 
 5. Divide the batter evenly among the three prepared pans.
 
@@ -52,7 +53,7 @@ This recipe makes a three-layer celebration cake with a caramel filling between 
 
 8. Prepare the filling by combining the salted caramel sauce with the chopped toasted pecans.
 
-9. Prepare the frosting by beating the butter until creamy. Gradually add the powdered sugar and vanilla, followed by the heavy cream.
+9. Prepare the frosting by beating the butter until creamy. Gradually add the powdered sugar and vanilla, followed by the heavy cream. Chill the frosting for 10 minutes if it becomes too soft to spread.
 
 10. Place the first cake layer on a serving plate and spread half of the filling over the top.
 
@@ -63,3 +64,7 @@ This recipe makes a three-layer celebration cake with a caramel filling between 
 13. Decorate the cake with chocolate curls.
 
 14. Add a drizzle of salted caramel sauce just before serving.
+
+## Serving and Storage
+
+For clean slices, chill the assembled cake for at least 30 minutes before serving. Store leftovers covered in the refrigerator for up to 4 days, and let each slice sit at room temperature for 15 minutes before eating.
